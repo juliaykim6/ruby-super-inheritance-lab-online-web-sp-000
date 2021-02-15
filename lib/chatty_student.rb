@@ -1,4 +1,4 @@
 require_releative "./student.rb"
 
-class ChattyStudent < Student 
+class ChattyStudent < Student
 end
